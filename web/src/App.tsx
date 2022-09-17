@@ -4,9 +4,9 @@ import Logo from "./assets/Logo.svg";
 
 function App() {
   return (
-    <div className="max-w-[1344px] mx-auto flex flex-col items-center my-20">
+    <div className="max-w-[1100px] mx-auto flex flex-col items-center my-10">
       <img src={Logo} alt="Logo da NLW" />
-      <h1 className="text-6xl text-white font-black mt-20">
+      <h1 className="text-6xl text-white font-black mt-10">
         Seu{" "}
         <span className="bg-nlw-gradient bg-clip-text text-transparent">
           duo
